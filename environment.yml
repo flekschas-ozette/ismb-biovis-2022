@@ -1,0 +1,21 @@
+name: ozette-biovis-ismb-2022
+channels:
+  - conda-forge
+
+dependencies:
+  - python=3.9
+  - matplotlib
+  - pandas
+  - requests
+  - scipy
+  - scikit-learn
+  - umap-learn
+  - pynndescent
+  - pip
+  - pip:
+    - ipywidgets>=7.6.3
+    - jupyterlab>=3.0.6
+    - jupyterlab_widgets>=1.0.0
+    - jupyter-scatter
+    - pyarrow
+    - hdbscan
