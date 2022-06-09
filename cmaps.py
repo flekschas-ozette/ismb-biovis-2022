@@ -1,7 +1,8 @@
 from matplotlib.colors import to_rgba
 
+gray = to_rgba('#dddddd')
+
 glasbey_dark = [
-    to_rgba('#dddddd'),
     to_rgba('#d60000'),
     to_rgba('#8c3bff'),
     to_rgba('#018700'),
