@@ -26,4 +26,8 @@ conda activate ozette-ismb-biovis-2022
 
 2. Open one of the following notebooks:
 
-  - [http://localhost:8888/lab/tree/faust-annotation-embedding.ipynb](http://localhost:8888/lab/tree/faust-annotation-embedding.ipynb)
+  - Explanation of our transformation embedding approach: [annotation-embedding.ipynb](http://localhost:8888/lab/tree/annotation-embedding.ipynb)
+    
+  - Comparison of our transformation approach using different non-linear embedding methods: [compare-annotation-embedding.ipynb](http://localhost:8888/lab/tree/compare-annotation-embedding.ipynb)
+    
+  - Joint embedding of two samples showing how our transformation approach helps to reduce batch effects: [joint-annotation-embedding.ipynb](http://localhost:8888/lab/tree/joint-annotation-embedding.ipynb)
