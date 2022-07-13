@@ -3,6 +3,12 @@
 This repository contains the code to reproduce all plots presented in our
 BioVis talk at ISMB '22.
 
+For a more elaborate R implementation that includes our clustering method, please take a look at https://github.com/RGLab/FAUST.
+
+For details about the method, please take a look at the related publication:
+
+[Greene et al., 2021, New interpretable machine-learning method for single-cell data reveals correlates of clinical response to cancer immunotherapy. _Pattern_.](https://www.sciencedirect.com/science/article/pii/S2666389921002348)
+
 ## Requirements
 
 - [Conda](https://github.com/conda-forge/miniforge)
