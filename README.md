@@ -7,7 +7,7 @@ This repository contains the code to reproduce plots presented in our BioVis tal
       <figure>
         <img
          width="auto"
-         height="360px"
+         height="320px"
          src="https://user-images.githubusercontent.com/84813279/178825120-cc399505-16ef-4dea-9359-b856963c5148.jpg"
          alt="ISMB BioVis 2022 Slides"
         >
@@ -17,7 +17,7 @@ This repository contains the code to reproduce plots presented in our BioVis tal
       <figure>
         <img
          width="auto"
-         height="360px"
+         height="320px"
          src="poster.jpg"
          alt="ISMB BioVis 2022 Poster"
         >
