@@ -10,6 +10,7 @@ dependencies:
   - scipy
   - scikit-learn
   - umap-learn
+  - tensorflow
   - pynndescent
   - pip
   - pip:
@@ -18,4 +19,4 @@ dependencies:
     - jupyterlab_widgets>=1.0.0
     - jupyter-scatter
     - pyarrow
-    - hdbscan
+    - opentsne
