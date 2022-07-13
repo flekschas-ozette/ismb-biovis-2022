@@ -9,12 +9,16 @@ BioVis talk at ISMB '22.
 
 ## Install
 
+First, get the code and install the conda environment.
+
 ```
 git clone git@github.com:flekschas-ozette/ismb-biovis-2022.git
 cd ismb-biovis-2022
 conda env create -f environment.yml
 conda activate ozette-ismb-biovis-2022
 ```
+
+Next, download the example data from https://figshare.com/articles/dataset/ISMB_BioVis_2022_Data/20301639 and place it under `data/mair-2022`.
 
 ## Get Started
 
