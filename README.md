@@ -1,21 +1,41 @@
-# Code for our BioVis Talk at ISMB '22
+# ISMB BioVis '22 Talk on Data Transformations for Effective Visualization of Single-Cell Embeddings
 
-This repository contains the code to reproduce all plots presented in our
-BioVis talk at ISMB '22.
+This repository contains the code to reproduce plots presented in our BioVis talk+poster at ISMB '22.
 
-For a more elaborate R implementation that includes our clustering method, please take a look at https://github.com/RGLab/FAUST.
+<p float="left">
+   <a href="slides.pdf">
+      <figure>
+        <img
+         width="auto"
+         height="360px"
+         src="https://user-images.githubusercontent.com/84813279/178825120-cc399505-16ef-4dea-9359-b856963c5148.jpg"
+         alt="ISMB BioVis 2022 Slides"
+        >
+      </figure>
+   </a>
+   <a href="poster.jpg">
+      <figure>
+        <img
+         width="auto"
+         height="360px"
+         src="poster.jpg"
+         alt="ISMB BioVis 2022 Poster"
+        >
+      </figure>
+   </a>
+</p>
 
-For details about the method, please take a look at the related publication:
+For a much more elaborate R implementation that includes our FAUST clustering method, please take a look at https://github.com/RGLab/FAUST.
 
-[Greene et al., 2021, New interpretable machine-learning method for single-cell data reveals correlates of clinical response to cancer immunotherapy. _Pattern_.](https://www.sciencedirect.com/science/article/pii/S2666389921002348)
+For details about our clustering and visualization methods, please take a look at the related publication:
+
+> [Greene et al., 2021, New interpretable machine-learning method for single-cell data reveals correlates of clinical response to cancer immunotherapy. _Pattern_.](https://www.sciencedirect.com/science/article/pii/S2666389921002348)
 
 ## Requirements
 
 - [Conda](https://github.com/conda-forge/miniforge)
 
 ## Install
-
-First, get the code and install the conda environment.
 
 ```
 git clone git@github.com:flekschas-ozette/ismb-biovis-2022.git
@@ -24,7 +44,9 @@ conda env create -f environment.yml
 conda activate ozette-ismb-biovis-2022
 ```
 
-Next, download the example data from https://figshare.com/articles/dataset/ISMB_BioVis_2022_Data/20301639 and place it under `data/mair-2022`.
+## Data
+
+Download the example data from https://figshare.com/articles/dataset/ISMB_BioVis_2022_Data/20301639 and place the files under `data/mair-2022`.
 
 ## Get Started
 
