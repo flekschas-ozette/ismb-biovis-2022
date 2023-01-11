@@ -46,9 +46,9 @@ conda env create -f environment.yml
 conda activate ozette-ismb-biovis-2022
 ```
 
-## Data
+## Example Data
 
-Download the example data from https://figshare.com/articles/dataset/ISMB_BioVis_2022_Data/20301639 and place the files under `data/mair-2022`.
+Download the example data from https://figshare.com/articles/dataset/ISMB_BioVis_2022_Data/20301639 and place the files under `data/mair-2022`. The data is from [Mair et al., 2022, Extricating human tumour immune alterations from tissue inflammation, _Nature_](https://www.nature.com/articles/s41586-022-04718-w).
 
 ## Get Started
 
