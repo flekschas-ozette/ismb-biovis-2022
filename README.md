@@ -1,6 +1,7 @@
 # ISMB BioVis '22 Talk on Data Transformations for Effective Visualization of Single-Cell Embeddings
 
 [![DOI](https://zenodo.org/badge/496748272.svg)](https://zenodo.org/badge/latestdoi/496748272)
+[![Talk Recording](https://img.shields.io/badge/Talk-🎥-f25b3d.svg)](https://youtu.be/BSGQZIiVwtY)
 
 This repository contains the code to reproduce plots presented in our BioVis talk+poster at ISMB '22. [The talk itself is available on YouTube.](https://youtu.be/BSGQZIiVwtY)
 
