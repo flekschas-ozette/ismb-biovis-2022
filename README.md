@@ -2,7 +2,7 @@
 
 [![DOI](https://zenodo.org/badge/496748272.svg)](https://zenodo.org/badge/latestdoi/496748272)
 
-This repository contains the code to reproduce plots presented in our BioVis talk+poster at ISMB '22.
+This repository contains the code to reproduce plots presented in our BioVis talk+poster at ISMB '22. [The talk itself is available on YouTube.](https://youtu.be/BSGQZIiVwtY)
 
 <p float="left">
    <a href="slides.pdf">
